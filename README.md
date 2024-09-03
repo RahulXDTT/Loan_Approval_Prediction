@@ -2,6 +2,8 @@
 
 This project aims to predict loan approval using various machine learning algorithms. It includes data preprocessing, exploratory data analysis (EDA), and the implementation of different classification models.
 
+Dataset Link - https://docs.google.com/spreadsheets/d/1zg9ERki9Lyt_8AbSpNfmqaObsAxw08R-WHk2XfCsnR0/edit?usp=drive_link
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Dependencies](#dependencies)
